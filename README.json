@@ -1195,7 +1195,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T00:33:28Z",
+            "last_commit": "2026-08-13T05:14:31Z",
             "owner": "ChelseaKR",
             "repo": "gtfs-scorecard",
             "stars": 1
@@ -1468,7 +1468,7 @@
             "last_commit": "2026-07-09T15:43:37Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 1041
+            "stars": 1042
           }
         },
         {
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-07-09T15:43:37Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 1041
+            "stars": 1042
           }
         }
       ],
@@ -2274,7 +2274,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T10:37:47Z",
+            "last_commit": "2026-08-13T08:00:23Z",
             "owner": "UnionInternationalCheminsdeFer",
             "repo": "OSDM",
             "stars": 93
@@ -2661,7 +2661,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T01:34:05Z",
+            "last_commit": "2026-08-13T08:18:26Z",
             "owner": "interline-io",
             "repo": "transitland-lib",
             "stars": 53
@@ -2907,10 +2907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:47:44Z",
+            "last_commit": "2026-08-13T07:33:30Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 89891
+            "stars": 89893
           }
         },
         {
@@ -2935,7 +2935,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T21:46:54Z",
+            "last_commit": "2026-08-13T06:47:59Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-android",
             "stars": 562
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:31.131Z",
+    "last_updated": "2026-08-13T08:54:40.777Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",
     "enhanced_repository": "enhansome/enhansome-transit",

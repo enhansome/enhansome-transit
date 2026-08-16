@@ -466,7 +466,7 @@
             "last_commit": "2026-06-30T16:59:33Z",
             "owner": "ipea",
             "repo": "gtfs2gps",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-02-12T03:09:41Z",
             "owner": "ipea",
             "repo": "gtfs2emis",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T03:04:54Z",
+            "last_commit": "2026-08-15T14:52:07Z",
             "owner": "entur",
             "repo": "netex-gtfs-converter-java",
             "stars": 11
@@ -1030,7 +1030,7 @@
             "last_commit": "2026-08-11T02:12:17Z",
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 1432
+            "stars": 1436
           }
         },
         {
@@ -1114,7 +1114,7 @@
             "last_commit": "2026-05-22T15:36:40Z",
             "owner": "ipea",
             "repo": "gtfstools",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -1195,7 +1195,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T07:47:32Z",
+            "last_commit": "2026-08-16T05:37:02Z",
             "owner": "ChelseaKR",
             "repo": "gtfs-scorecard",
             "stars": 1
@@ -1468,7 +1468,7 @@
             "last_commit": "2026-07-09T15:43:37Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 1044
+            "stars": 1046
           }
         },
         {
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-07-09T15:43:37Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 1044
+            "stars": 1046
           }
         }
       ],
@@ -2504,7 +2504,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T08:49:10Z",
+            "last_commit": "2026-08-15T16:58:43Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
             "stars": 6632
@@ -2518,7 +2518,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-30T11:53:20Z",
+            "last_commit": "2026-08-15T19:29:58Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 605
@@ -2535,7 +2535,7 @@
             "last_commit": "2026-08-11T12:46:53Z",
             "owner": "hove-io",
             "repo": "navitia",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -2627,7 +2627,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-30T11:53:20Z",
+            "last_commit": "2026-08-15T19:29:58Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 605
@@ -2644,7 +2644,7 @@
             "last_commit": "2026-08-11T12:46:53Z",
             "owner": "hove-io",
             "repo": "navitia",
-            "stars": 454
+            "stars": 455
           }
         }
       ],
@@ -2907,10 +2907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:58:47Z",
+            "last_commit": "2026-08-16T07:14:02Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 89927
+            "stars": 89941
           }
         },
         {
@@ -2935,7 +2935,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T06:37:12Z",
+            "last_commit": "2026-08-16T02:50:33Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-android",
             "stars": 562
@@ -2977,7 +2977,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T03:41:08Z",
+            "last_commit": "2026-08-16T02:43:09Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 64
@@ -3084,7 +3084,7 @@
             "last_commit": "2026-04-21T10:26:48Z",
             "owner": "chrisys",
             "repo": "train-departure-display",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:59:37.705Z",
+    "last_updated": "2026-08-16T07:59:41.496Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",
     "enhanced_repository": "enhansome/enhansome-transit",

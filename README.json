@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T14:52:07Z",
+            "last_commit": "2026-08-17T03:55:08Z",
             "owner": "entur",
             "repo": "netex-gtfs-converter-java",
             "stars": 11
@@ -917,7 +917,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T09:40:45Z",
+            "last_commit": "2026-08-17T03:53:27Z",
             "owner": "entur",
             "repo": "uttu",
             "stars": 7
@@ -1030,7 +1030,7 @@
             "last_commit": "2026-08-11T02:12:17Z",
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 1436
+            "stars": 1438
           }
         },
         {
@@ -1195,7 +1195,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T05:37:02Z",
+            "last_commit": "2026-08-17T08:10:03Z",
             "owner": "ChelseaKR",
             "repo": "gtfs-scorecard",
             "stars": 1
@@ -1468,7 +1468,7 @@
             "last_commit": "2026-07-09T15:43:37Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 1046
+            "stars": 1047
           }
         },
         {
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-07-09T15:43:37Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 1046
+            "stars": 1047
           }
         }
       ],
@@ -1724,7 +1724,7 @@
             "last_commit": "2022-04-11T15:39:15Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-gtfs-realtime-from-siri-cli",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -2148,7 +2148,7 @@
             "last_commit": "2022-04-11T15:39:15Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-gtfs-realtime-from-siri-cli",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -2274,7 +2274,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T10:54:23Z",
+            "last_commit": "2026-08-17T06:48:04Z",
             "owner": "UnionInternationalCheminsdeFer",
             "repo": "OSDM",
             "stars": 93
@@ -2507,7 +2507,7 @@
             "last_commit": "2026-08-15T16:58:43Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6632
+            "stars": 6633
           }
         },
         {
@@ -2518,7 +2518,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T19:29:58Z",
+            "last_commit": "2026-08-16T10:24:56Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 605
@@ -2627,7 +2627,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T19:29:58Z",
+            "last_commit": "2026-08-16T10:24:56Z",
             "owner": "eskerda",
             "repo": "pybikes",
             "stars": 605
@@ -2907,10 +2907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T07:14:02Z",
+            "last_commit": "2026-08-17T07:55:41Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 89941
+            "stars": 89932
           }
         },
         {
@@ -2924,7 +2924,7 @@
             "last_commit": "2026-05-28T21:13:14Z",
             "owner": "grote",
             "repo": "Transportr",
-            "stars": 1176
+            "stars": 1178
           }
         },
         {
@@ -2935,7 +2935,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T02:50:33Z",
+            "last_commit": "2026-08-17T07:48:07Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-android",
             "stars": 562
@@ -2977,7 +2977,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T02:43:09Z",
+            "last_commit": "2026-08-17T02:41:48Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 64
@@ -2991,7 +2991,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-07-30T20:23:09Z",
+            "last_commit": "2026-08-16T20:52:04Z",
             "owner": "jdamcd",
             "repo": "arrivals-kmp",
             "stars": 16
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:59:41.496Z",
+    "last_updated": "2026-08-17T08:24:19.719Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",
     "enhanced_repository": "enhansome/enhansome-transit",

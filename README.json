@@ -58,7 +58,7 @@
                         "last_commit": "2020-12-27T02:26:26Z",
                         "owner": "bliksemlabs",
                         "repo": "rrrr",
-                        "stars": 174
+                        "stars": 175
                       }
                     },
                     {
@@ -1020,7 +1020,7 @@
                     "last_commit": "2023-10-24T02:29:42Z",
                     "owner": "cal-itp",
                     "repo": "ibi-datatools-infra",
-                    "stars": 4
+                    "stars": 5
                   }
                 }
               ],
@@ -1109,7 +1109,7 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1545
+                    "stars": 1660
                   }
                 },
                 {
@@ -1124,7 +1124,7 @@
                     "last_commit": "2026-08-14T17:28:13Z",
                     "owner": "conveyal",
                     "repo": "r5",
-                    "stars": 398
+                    "stars": 399
                   }
                 },
                 {
@@ -1286,7 +1286,7 @@
                     "archived": false,
                     "id": 1288847801,
                     "language": "HTML",
-                    "last_commit": "2026-08-19T11:44:47Z",
+                    "last_commit": "2026-08-20T05:46:14Z",
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1
@@ -1614,7 +1614,7 @@
                     "archived": false,
                     "id": 29609844,
                     "language": "JavaScript",
-                    "last_commit": "2026-07-29T20:11:12Z",
+                    "last_commit": "2026-08-19T21:48:13Z",
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-bindings",
                     "stars": 437
@@ -2695,10 +2695,10 @@
                 "archived": false,
                 "id": 3480666,
                 "language": "Java",
-                "last_commit": "2026-08-15T16:58:43Z",
+                "last_commit": "2026-08-19T15:58:49Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6637
+                "stars": 6638
               }
             },
             {
@@ -3127,10 +3127,10 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-19T12:52:09Z",
+                    "last_commit": "2026-08-20T08:01:34Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 89976
+                    "stars": 89998
                   }
                 },
                 {
@@ -3145,7 +3145,7 @@
                     "last_commit": "2026-05-28T21:13:14Z",
                     "owner": "grote",
                     "repo": "Transportr",
-                    "stars": 1180
+                    "stars": 1179
                   }
                 },
                 {
@@ -3157,7 +3157,7 @@
                     "archived": false,
                     "id": 1873841,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-19T08:30:05Z",
+                    "last_commit": "2026-08-20T05:24:55Z",
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
                     "stars": 562
@@ -3202,10 +3202,10 @@
                     "archived": false,
                     "id": 131281613,
                     "language": "C++",
-                    "last_commit": "2026-08-19T02:43:55Z",
+                    "last_commit": "2026-08-20T03:35:50Z",
                     "owner": "KDE",
                     "repo": "itinerary",
-                    "stars": 64
+                    "stars": 65
                   }
                 },
                 {
@@ -3862,7 +3862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:27.269Z",
+    "last_updated": "2026-08-20T08:17:51.173Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_id": 40631174,
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",

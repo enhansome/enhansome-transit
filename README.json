@@ -211,7 +211,7 @@
                         "archived": false,
                         "id": 32480164,
                         "language": "Python",
-                        "last_commit": "2026-08-18T20:12:19Z",
+                        "last_commit": "2026-08-21T00:44:21Z",
                         "owner": "OpenTransitTools",
                         "repo": "gtfsdb",
                         "stars": 180
@@ -289,7 +289,7 @@
                         "last_commit": "2025-06-30T05:01:30Z",
                         "owner": "UTEL-UIUC",
                         "repo": "gtfs_segments",
-                        "stars": 49
+                        "stars": 47
                       }
                     },
                     {
@@ -840,7 +840,7 @@
                     "last_commit": "2026-08-14T19:33:10Z",
                     "owner": "ibi-group",
                     "repo": "datatools-ui",
-                    "stars": 147
+                    "stars": 146
                   }
                 },
                 {
@@ -867,7 +867,7 @@
                     "archived": false,
                     "id": 82857374,
                     "language": "Java",
-                    "last_commit": "2026-08-18T19:44:26Z",
+                    "last_commit": "2026-08-20T22:16:49Z",
                     "owner": "ibi-group",
                     "repo": "datatools-server",
                     "stars": 55
@@ -1109,7 +1109,7 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1660
+                    "stars": 1748
                   }
                 },
                 {
@@ -1124,7 +1124,7 @@
                     "last_commit": "2026-08-14T17:28:13Z",
                     "owner": "conveyal",
                     "repo": "r5",
-                    "stars": 399
+                    "stars": 400
                   }
                 },
                 {
@@ -1286,7 +1286,7 @@
                     "archived": false,
                     "id": 1288847801,
                     "language": "HTML",
-                    "last_commit": "2026-08-20T05:46:14Z",
+                    "last_commit": "2026-08-21T05:49:07Z",
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1
@@ -1585,7 +1585,7 @@
                 "last_commit": "2026-08-17T19:50:33Z",
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -1600,7 +1600,7 @@
                 "last_commit": "2026-08-17T19:50:33Z",
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -1617,7 +1617,7 @@
                     "last_commit": "2026-08-19T21:48:13Z",
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-bindings",
-                    "stars": 437
+                    "stars": 438
                   }
                 },
                 {
@@ -2394,7 +2394,7 @@
                     "last_commit": "2026-07-09T03:03:08Z",
                     "owner": "openmobilityfoundation",
                     "repo": "mobility-data-specification",
-                    "stars": 747
+                    "stars": 745
                   }
                 },
                 {
@@ -2443,7 +2443,7 @@
                     "archived": false,
                     "id": 216804770,
                     "language": "Shell",
-                    "last_commit": "2026-08-18T12:30:30Z",
+                    "last_commit": "2026-08-20T16:11:55Z",
                     "owner": "UnionInternationalCheminsdeFer",
                     "repo": "OSDM",
                     "stars": 93
@@ -2473,7 +2473,7 @@
                     "archived": false,
                     "id": 521000924,
                     "language": "Python",
-                    "last_commit": "2026-08-13T21:23:42Z",
+                    "last_commit": "2026-08-20T15:03:34Z",
                     "owner": "TIDES-transit",
                     "repo": "TIDES",
                     "stars": 63
@@ -3127,10 +3127,10 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-20T08:01:34Z",
+                    "last_commit": "2026-08-21T08:14:15Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 89998
+                    "stars": 90020
                   }
                 },
                 {
@@ -3157,7 +3157,7 @@
                     "archived": false,
                     "id": 1873841,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-20T05:24:55Z",
+                    "last_commit": "2026-08-21T08:14:26Z",
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
                     "stars": 562
@@ -3210,21 +3210,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Arrivals KMP",
-                  "description": "Kotlin Multiplatform live transit arrivals app with macOS toolbar, CLI, and desktop targets. Supports e.g. MTA, TfL, UK National Rail, or any GTFS-RT feed.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 592216258,
-                    "language": "Kotlin",
-                    "last_commit": "2026-08-18T06:15:07Z",
-                    "owner": "jdamcd",
-                    "repo": "arrivals-kmp",
-                    "stars": 16
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Trufi App",
                   "description": "A cross-platform Flutter app that uses OpenTripPlanner",
                   "children": [],
@@ -3235,6 +3220,21 @@
                     "last_commit": "2026-08-17T14:26:52Z",
                     "owner": "trufi-association",
                     "repo": "trufi-app",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Arrivals KMP",
+                  "description": "Kotlin Multiplatform live transit arrivals app with macOS toolbar, CLI, and desktop targets. Supports e.g. MTA, TfL, UK National Rail, or any GTFS-RT feed.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 592216258,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-18T06:15:07Z",
+                    "owner": "jdamcd",
+                    "repo": "arrivals-kmp",
                     "stars": 16
                   }
                 },
@@ -3322,7 +3322,7 @@
                 "last_commit": "2026-04-21T10:26:48Z",
                 "owner": "chrisys",
                 "repo": "train-departure-display",
-                "stars": 335
+                "stars": 336
               }
             },
             {
@@ -3443,7 +3443,7 @@
                     "last_commit": "2024-04-19T00:57:46Z",
                     "owner": "mapnificent",
                     "repo": "mapnificent",
-                    "stars": 405
+                    "stars": 406
                   }
                 },
                 {
@@ -3862,7 +3862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:17:51.173Z",
+    "last_updated": "2026-08-21T08:19:31.280Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_id": 40631174,
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",

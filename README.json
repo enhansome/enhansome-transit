@@ -92,7 +92,7 @@
                         "archived": false,
                         "id": 3432328,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-14T06:55:24Z",
+                        "last_commit": "2026-08-23T05:55:01Z",
                         "owner": "BlinkTagInc",
                         "repo": "node-gtfs",
                         "stars": 503
@@ -110,7 +110,7 @@
                         "last_commit": "2026-07-06T10:49:51Z",
                         "owner": "public-transport",
                         "repo": "gtfs-via-postgres",
-                        "stars": 146
+                        "stars": 145
                       }
                     },
                     {
@@ -162,7 +162,7 @@
                         "last_commit": "2026-07-06T10:49:51Z",
                         "owner": "public-transport",
                         "repo": "gtfs-via-postgres",
-                        "stars": 146
+                        "stars": 145
                       }
                     },
                     {
@@ -455,7 +455,7 @@
                     "archived": false,
                     "id": 86115411,
                     "language": "TypeScript",
-                    "last_commit": "2026-07-07T22:37:28Z",
+                    "last_commit": "2026-08-23T06:44:06Z",
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-to-geojson",
                     "stars": 158
@@ -825,7 +825,7 @@
                     "last_commit": "2022-06-05T12:59:33Z",
                     "owner": "WRI-Cities",
                     "repo": "static-GTFS-manager",
-                    "stars": 160
+                    "stars": 159
                   }
                 },
                 {
@@ -855,7 +855,7 @@
                     "last_commit": "2017-06-20T17:26:25Z",
                     "owner": "conveyal",
                     "repo": "gtfs-editor",
-                    "stars": 137
+                    "stars": 136
                   }
                 },
                 {
@@ -915,7 +915,7 @@
                     "last_commit": "2023-05-06T12:54:09Z",
                     "owner": "kostjerry",
                     "repo": "gtfs-station-builder",
-                    "stars": 20
+                    "stars": 19
                   }
                 },
                 {
@@ -1109,7 +1109,7 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1787
+                    "stars": 1797
                   }
                 },
                 {
@@ -1286,7 +1286,7 @@
                     "archived": false,
                     "id": 1288847801,
                     "language": "HTML",
-                    "last_commit": "2026-08-22T05:27:51Z",
+                    "last_commit": "2026-08-23T05:32:41Z",
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1
@@ -1540,7 +1540,7 @@
                     "archived": false,
                     "id": 816675703,
                     "language": "TypeScript",
-                    "last_commit": "2026-06-19T05:31:16Z",
+                    "last_commit": "2026-08-23T07:05:07Z",
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-accessibility-validator",
                     "stars": 2
@@ -2013,7 +2013,7 @@
                     "last_commit": "2026-02-26T00:57:24Z",
                     "owner": "public-transport",
                     "repo": "gtfs-rt-inspector",
-                    "stars": 57
+                    "stars": 58
                   }
                 },
                 {
@@ -2123,21 +2123,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "gtfs-rt-admin",
-                  "description": "An admin tool for managing GTFS-RT service alerts (JavaScript and Java).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 10223388,
-                    "language": "JavaScript",
-                    "last_commit": "2014-07-09T21:21:20Z",
-                    "owner": "conveyal",
-                    "repo": "gtfs-rt-admin",
-                    "stars": 7
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "transit-feed-quality-calculator",
                   "description": "A Java project that uses the gtfs-realtime-validator to assess the quality of a large number of transit feeds, fetching the feed URLs from a global directory (TransitFeeds.com/OpenMobilityData.org).",
                   "children": [],
@@ -2149,6 +2134,21 @@
                     "owner": "CUTR-at-USF",
                     "repo": "transit-feed-quality-calculator",
                     "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gtfs-rt-admin",
+                  "description": "An admin tool for managing GTFS-RT service alerts (JavaScript and Java).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10223388,
+                    "language": "JavaScript",
+                    "last_commit": "2014-07-09T21:21:20Z",
+                    "owner": "conveyal",
+                    "repo": "gtfs-rt-admin",
+                    "stars": 6
                   }
                 },
                 {
@@ -2265,7 +2265,7 @@
                 "last_commit": "2024-06-05T14:38:16Z",
                 "owner": "OneBusAway",
                 "repo": "onebusaway",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -2698,7 +2698,7 @@
                 "last_commit": "2026-08-21T13:45:06Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6638
+                "stars": 6640
               }
             },
             {
@@ -2913,7 +2913,7 @@
                     "last_commit": "2026-06-21T17:18:45Z",
                     "owner": "conveyal",
                     "repo": "transitive.js",
-                    "stars": 700
+                    "stars": 701
                   }
                 },
                 {
@@ -3127,10 +3127,10 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-22T07:47:55Z",
+                    "last_commit": "2026-08-23T07:13:00Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90035
+                    "stars": 90053
                   }
                 },
                 {
@@ -3145,7 +3145,7 @@
                     "last_commit": "2026-05-28T21:13:14Z",
                     "owner": "grote",
                     "repo": "Transportr",
-                    "stars": 1179
+                    "stars": 1178
                   }
                 },
                 {
@@ -3322,7 +3322,7 @@
                 "last_commit": "2026-04-21T10:26:48Z",
                 "owner": "chrisys",
                 "repo": "train-departure-display",
-                "stars": 336
+                "stars": 337
               }
             },
             {
@@ -3862,7 +3862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:00:06.750Z",
+    "last_updated": "2026-08-23T08:00:35.028Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_id": 40631174,
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",

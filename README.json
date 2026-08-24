@@ -211,7 +211,7 @@
                         "archived": false,
                         "id": 32480164,
                         "language": "Python",
-                        "last_commit": "2026-08-22T07:19:31Z",
+                        "last_commit": "2026-08-23T20:34:59Z",
                         "owner": "OpenTransitTools",
                         "repo": "gtfsdb",
                         "stars": 180
@@ -1109,7 +1109,7 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1797
+                    "stars": 1830
                   }
                 },
                 {
@@ -1286,7 +1286,7 @@
                     "archived": false,
                     "id": 1288847801,
                     "language": "HTML",
-                    "last_commit": "2026-08-23T05:32:41Z",
+                    "last_commit": "2026-08-24T07:59:49Z",
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1
@@ -1390,7 +1390,7 @@
                     "archived": false,
                     "id": 65672890,
                     "language": "Go",
-                    "last_commit": "2026-08-22T00:02:40Z",
+                    "last_commit": "2026-08-23T20:25:19Z",
                     "owner": "patrickbr",
                     "repo": "gtfstidy",
                     "stars": 149
@@ -1614,7 +1614,7 @@
                     "archived": false,
                     "id": 29609844,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T21:48:13Z",
+                    "last_commit": "2026-08-24T07:23:32Z",
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-bindings",
                     "stars": 438
@@ -2695,7 +2695,7 @@
                 "archived": false,
                 "id": 3480666,
                 "language": "Java",
-                "last_commit": "2026-08-21T13:45:06Z",
+                "last_commit": "2026-08-23T21:45:31Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
                 "stars": 6640
@@ -3127,10 +3127,10 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-23T07:13:00Z",
+                    "last_commit": "2026-08-24T08:24:57Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90053
+                    "stars": 90078
                   }
                 },
                 {
@@ -3500,7 +3500,7 @@
                     "archived": false,
                     "id": 865231382,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T04:15:00Z",
+                    "last_commit": "2026-08-24T08:20:20Z",
                     "owner": "gabrielAHN",
                     "repo": "gtfs-viz",
                     "stars": 51
@@ -3862,7 +3862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:00:35.028Z",
+    "last_updated": "2026-08-24T08:25:39.481Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_id": 40631174,
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",

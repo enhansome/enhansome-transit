@@ -1263,7 +1263,7 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1857
+                    "stars": 1858
                   }
                 },
                 {
@@ -2619,7 +2619,7 @@
                     "archived": false,
                     "id": 216804770,
                     "language": "Shell",
-                    "last_commit": "2026-08-21T09:43:23Z",
+                    "last_commit": "2026-08-25T07:53:16Z",
                     "owner": "UnionInternationalCheminsdeFer",
                     "repo": "OSDM",
                     "stars": 93
@@ -2901,7 +2901,7 @@
                 "archived": false,
                 "id": 10797333,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:59:21Z",
+                "last_commit": "2026-08-25T07:45:26Z",
                 "owner": "hove-io",
                 "repo": "navitia",
                 "stars": 455
@@ -3085,7 +3085,7 @@
                 "archived": false,
                 "id": 10797333,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:59:21Z",
+                "last_commit": "2026-08-25T07:45:26Z",
                 "owner": "hove-io",
                 "repo": "navitia",
                 "stars": 455
@@ -3391,10 +3391,10 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-25T05:49:10Z",
+                    "last_commit": "2026-08-25T08:19:20Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90099
+                    "stars": 90101
                   }
                 },
                 {
@@ -3409,7 +3409,7 @@
                     "last_commit": "2026-05-28T21:13:14Z",
                     "owner": "grote",
                     "repo": "Transportr",
-                    "stars": 1177
+                    "stars": 1178
                   }
                 },
                 {
@@ -3421,7 +3421,7 @@
                     "archived": false,
                     "id": 1873841,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-24T21:48:16Z",
+                    "last_commit": "2026-08-25T07:38:49Z",
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
                     "stars": 563
@@ -4058,7 +4058,7 @@
                 "archived": false,
                 "id": 2067253,
                 "language": "Java",
-                "last_commit": "2026-08-24T16:51:54Z",
+                "last_commit": "2026-08-25T07:58:20Z",
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
                 "stars": 2722
@@ -4229,7 +4229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:36.816Z",
+    "last_updated": "2026-08-25T08:22:22.594Z",
     "original_repository": "MobilityData/awesome-transit",
     "original_repository_id": 40631174,
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",

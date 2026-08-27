@@ -321,7 +321,7 @@
                         "archived": false,
                         "id": 32480164,
                         "language": "Python",
-                        "last_commit": "2026-08-25T19:31:02Z",
+                        "last_commit": "2026-08-27T00:12:38Z",
                         "owner": "OpenTransitTools",
                         "repo": "gtfsdb",
                         "stars": 180
@@ -669,7 +669,7 @@
                     "archived": false,
                     "id": 114797044,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T12:17:47Z",
+                    "last_commit": "2026-08-27T09:38:00Z",
                     "owner": "hove-io",
                     "repo": "transit_model",
                     "stars": 72
@@ -964,7 +964,7 @@
                     "last_commit": "2026-07-24T12:48:02Z",
                     "owner": "ad-freiburg",
                     "repo": "pfaedle",
-                    "stars": 288
+                    "stars": 289
                   }
                 },
                 {
@@ -991,7 +991,7 @@
                     "archived": false,
                     "id": 54122046,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-14T19:33:10Z",
+                    "last_commit": "2026-08-26T20:06:28Z",
                     "owner": "ibi-group",
                     "repo": "datatools-ui",
                     "stars": 146
@@ -1263,7 +1263,7 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1870
+                    "stars": 1873
                   }
                 },
                 {
@@ -1275,7 +1275,7 @@
                     "archived": false,
                     "id": 44746588,
                     "language": "Java",
-                    "last_commit": "2026-08-14T17:28:13Z",
+                    "last_commit": "2026-08-26T15:55:28Z",
                     "owner": "conveyal",
                     "repo": "r5",
                     "stars": 401
@@ -1440,7 +1440,7 @@
                     "archived": false,
                     "id": 1288847801,
                     "language": "HTML",
-                    "last_commit": "2026-08-26T05:34:36Z",
+                    "last_commit": "2026-08-27T11:22:09Z",
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1
@@ -1739,7 +1739,7 @@
                 "last_commit": "2026-08-17T19:50:33Z",
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1051
+                "stars": 1052
               }
             },
             {
@@ -1754,7 +1754,7 @@
                 "last_commit": "2026-08-17T19:50:33Z",
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1051
+                "stars": 1052
               }
             },
             {
@@ -2871,10 +2871,10 @@
                 "archived": false,
                 "id": 3480666,
                 "language": "Java",
-                "last_commit": "2026-08-25T18:46:34Z",
+                "last_commit": "2026-08-27T10:39:17Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6643
+                "stars": 6647
               }
             },
             {
@@ -3004,7 +3004,7 @@
                 "archived": false,
                 "id": 386074506,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:52:05Z",
+                "last_commit": "2026-08-26T19:07:56Z",
                 "owner": "MobilityData",
                 "repo": "mobility-database-catalogs",
                 "stars": 343
@@ -3129,7 +3129,7 @@
                 "archived": false,
                 "id": 188310320,
                 "language": "Go",
-                "last_commit": "2026-08-24T21:51:14Z",
+                "last_commit": "2026-08-27T10:15:42Z",
                 "owner": "interline-io",
                 "repo": "transitland-lib",
                 "stars": 53
@@ -3391,10 +3391,10 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-26T08:17:12Z",
+                    "last_commit": "2026-08-27T12:05:28Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90118
+                    "stars": 90133
                   }
                 },
                 {
@@ -3421,7 +3421,7 @@
                     "archived": false,
                     "id": 1873841,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-25T07:38:49Z",
+                    "last_commit": "2026-08-27T06:32:31Z",
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
                     "stars": 563
@@ -3466,7 +3466,7 @@
                     "archived": false,
                     "id": 131281613,
                     "language": "C++",
-                    "last_commit": "2026-08-26T02:46:38Z",
+                    "last_commit": "2026-08-27T11:17:34Z",
                     "owner": "KDE",
                     "repo": "itinerary",
                     "stars": 65
@@ -3586,7 +3586,7 @@
                 "last_commit": "2026-04-21T10:26:48Z",
                 "owner": "chrisys",
                 "repo": "train-departure-display",
-                "stars": 339
+                "stars": 340
               }
             },
             {
@@ -3601,7 +3601,7 @@
                 "last_commit": "2026-08-06T17:21:36Z",
                 "owner": "tomunderwood99",
                 "repo": "CharlieBoard",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -3857,7 +3857,7 @@
                     "last_commit": "2026-08-06T10:04:19Z",
                     "owner": "ttezer",
                     "repo": "gtfs-city",
-                    "stars": 10
+                    "stars": 11
                   }
                 },
                 {
@@ -4058,10 +4058,10 @@
                 "archived": false,
                 "id": 2067253,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:25:16Z",
+                "last_commit": "2026-08-27T09:31:19Z",
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2722
+                "stars": 2723
               }
             },
             {
@@ -4229,9 +4229,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:23:53.819Z",
-    "original_repository": "MobilityData/awesome-transit",
-    "original_repository_id": 40631174,
+    "last_updated": "2026-08-27T12:07:32.195Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40631174,
+      "language": null,
+      "last_commit": "2026-07-24T14:45:42Z",
+      "owner": "MobilityData",
+      "repo": "awesome-transit",
+      "stars": 1822
+    },
     "original_repository_sha": "7b31683f8a45e960ed86b219d4db7ca8dd9c10b8",
     "enhanced_repository": "enhansome/enhansome-transit",
     "enhanced_repository_description": null,

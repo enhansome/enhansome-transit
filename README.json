@@ -20,7 +20,8 @@
                     "owner": "MobilityData",
                     "repo": "GTFS-books",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "mbta",
                     "repo": "gtfs_onboarding",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -59,7 +61,8 @@
                         "owner": "bliksemlabs",
                         "repo": "rrrr",
                         "stars": 175
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -74,7 +77,8 @@
                         "owner": "4rterius",
                         "repo": "cgtfs",
                         "stars": 10
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -96,7 +100,8 @@
                         "owner": "mesozoic-drones",
                         "repo": "just_gtfs",
                         "stars": 27
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -118,7 +123,8 @@
                         "owner": "itinero",
                         "repo": "GTFS",
                         "stars": 72
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -140,7 +146,8 @@
                         "owner": "geops",
                         "repo": "gtfsparser",
                         "stars": 49
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -161,8 +168,9 @@
                         "last_commit": "2026-08-19T09:43:15Z",
                         "owner": "OneBusAway",
                         "repo": "onebusaway-gtfs-modules",
-                        "stars": 147
-                      }
+                        "stars": 148
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -180,11 +188,12 @@
                         "archived": false,
                         "id": 3432328,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-23T05:55:01Z",
+                        "last_commit": "2026-08-28T18:22:01Z",
                         "owner": "BlinkTagInc",
                         "repo": "node-gtfs",
                         "stars": 503
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -195,11 +204,12 @@
                         "archived": false,
                         "id": 257130655,
                         "language": "JavaScript",
-                        "last_commit": "2026-07-06T10:49:51Z",
+                        "last_commit": "2026-08-28T16:49:54Z",
                         "owner": "public-transport",
                         "repo": "gtfs-via-postgres",
                         "stars": 145
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -214,7 +224,8 @@
                         "owner": "public-transport",
                         "repo": "gtfs-utils",
                         "stars": 46
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -229,7 +240,8 @@
                         "owner": "evansiroky",
                         "repo": "gtfs-sequelize",
                         "stars": 20
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -247,11 +259,12 @@
                         "archived": false,
                         "id": 257130655,
                         "language": "JavaScript",
-                        "last_commit": "2026-07-06T10:49:51Z",
+                        "last_commit": "2026-08-28T16:49:54Z",
                         "owner": "public-transport",
                         "repo": "gtfs-via-postgres",
                         "stars": 145
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -266,7 +279,8 @@
                         "owner": "tyleragreen",
                         "repo": "gtfs-schema",
                         "stars": 38
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -288,7 +302,8 @@
                         "owner": "public-transport",
                         "repo": "gtfs-via-duckdb",
                         "stars": 8
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -310,7 +325,8 @@
                         "owner": "remix",
                         "repo": "partridge",
                         "stars": 185
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -325,7 +341,8 @@
                         "owner": "OpenTransitTools",
                         "repo": "gtfsdb",
                         "stars": 180
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -340,7 +357,8 @@
                         "owner": "CxAalto",
                         "repo": "gtfspy",
                         "stars": 167
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -355,7 +373,8 @@
                         "owner": "Bondify",
                         "repo": "gtfs_functions",
                         "stars": 140
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -370,7 +389,8 @@
                         "owner": "araichev",
                         "repo": "gtfs_kit",
                         "stars": 124
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -385,7 +405,8 @@
                         "owner": "tulsawebdevs",
                         "repo": "django-multi-gtfs",
                         "stars": 55
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -400,7 +421,8 @@
                         "owner": "UTEL-UIUC",
                         "repo": "gtfs_segments",
                         "stars": 47
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -415,7 +437,8 @@
                         "owner": "afimb",
                         "repo": "gtfslib-python",
                         "stars": 44
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -430,7 +453,8 @@
                         "owner": "UTEL-UIUC",
                         "repo": "TransitGPT",
                         "stars": 38
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -445,7 +469,8 @@
                         "owner": "transitland",
                         "repo": "mapzen-gtfs",
                         "stars": 29
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -460,7 +485,8 @@
                         "owner": "geops",
                         "repo": "gtfsman",
                         "stars": 22
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -475,7 +501,8 @@
                         "owner": "psrc",
                         "repo": "transit_service_analyst",
                         "stars": 15
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -490,7 +517,8 @@
                         "owner": "araichev",
                         "repo": "make_gtfs",
                         "stars": 13
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -512,7 +540,8 @@
                         "owner": "r-transit",
                         "repo": "tidytransit",
                         "stars": 171
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -527,7 +556,8 @@
                         "owner": "r-transit",
                         "repo": "gtfsio",
                         "stars": 19
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     },
                     {
                       "node_type": "item",
@@ -538,11 +568,12 @@
                         "archived": false,
                         "id": 1089078451,
                         "language": "R",
-                        "last_commit": "2026-08-27T17:01:06Z",
+                        "last_commit": "2026-08-28T16:32:03Z",
                         "owner": "jasonad123",
                         "repo": "mobdb",
                         "stars": 9
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -564,7 +595,8 @@
                         "owner": "vasile",
                         "repo": "GTFS-viz",
                         "stars": 94
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -582,11 +614,12 @@
                         "archived": false,
                         "id": 129280178,
                         "language": "Rust",
-                        "last_commit": "2026-08-20T16:58:11Z",
+                        "last_commit": "2026-08-27T21:06:04Z",
                         "owner": "rust-transit",
                         "repo": "gtfs-structure",
                         "stars": 77
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:35:33.758Z"
                     }
                   ],
                   "description": null,
@@ -613,7 +646,8 @@
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-to-geojson",
                     "stars": 158
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -628,7 +662,8 @@
                     "owner": "grote",
                     "repo": "osm2gtfs",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -643,7 +678,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "gtfs-osm-sync",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -658,7 +694,8 @@
                     "owner": "ipea",
                     "repo": "gtfs2gps",
                     "stars": 83
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -673,7 +710,8 @@
                     "owner": "hove-io",
                     "repo": "transit_model",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -688,7 +726,8 @@
                     "owner": "ipea",
                     "repo": "gtfs2emis",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -703,7 +742,8 @@
                     "owner": "Open-Transport",
                     "repo": "synthese",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -718,7 +758,8 @@
                     "owner": "kotrc",
                     "repo": "GTFS-route-shapes",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -733,7 +774,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-vdv-modules",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -748,7 +790,8 @@
                     "owner": "geops",
                     "repo": "hafas2gtfs",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -763,7 +806,8 @@
                     "owner": "hiposfer",
                     "repo": "o2g",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -778,7 +822,8 @@
                     "owner": "entur",
                     "repo": "netex-gtfs-converter-java",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -793,7 +838,8 @@
                     "owner": "bdferris",
                     "repo": "kml-to-gtfs-shapes",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -808,7 +854,8 @@
                     "owner": "derhuerst",
                     "repo": "extract-gtfs-shapes",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -823,7 +870,8 @@
                     "owner": "ioTransit",
                     "repo": "gtfs-parser",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -838,7 +886,8 @@
                     "owner": "derhuerst",
                     "repo": "hafas-generate-gtfs",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -853,7 +902,8 @@
                     "owner": "bliksemlabs",
                     "repo": "bliksemintegration",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -868,7 +918,8 @@
                     "owner": "derhuerst",
                     "repo": "extract-gtfs-pathways",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -883,7 +934,8 @@
                     "owner": "cal-itp",
                     "repo": "gtfs-service-area",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -898,7 +950,8 @@
                     "owner": "r-transit",
                     "repo": "gtsf",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -913,7 +966,8 @@
                     "owner": "Transporter-Project",
                     "repo": "transxchange-to-gtfs",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -928,7 +982,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-to-barefoot",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": "Converters from various static schedule formats to and from GTFS.",
@@ -950,7 +1005,8 @@
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
                     "stars": 423
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -965,7 +1021,8 @@
                     "owner": "ad-freiburg",
                     "repo": "pfaedle",
                     "stars": 289
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -980,7 +1037,8 @@
                     "owner": "WRI-Cities",
                     "repo": "static-GTFS-manager",
                     "stars": 159
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -991,11 +1049,12 @@
                     "archived": false,
                     "id": 54122046,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T17:03:56Z",
+                    "last_commit": "2026-08-27T20:12:52Z",
                     "owner": "ibi-group",
                     "repo": "datatools-ui",
                     "stars": 146
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1010,7 +1069,8 @@
                     "owner": "conveyal",
                     "repo": "gtfs-editor",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1021,11 +1081,12 @@
                     "archived": false,
                     "id": 82857374,
                     "language": "Java",
-                    "last_commit": "2026-08-20T22:16:49Z",
+                    "last_commit": "2026-08-28T18:50:09Z",
                     "owner": "ibi-group",
                     "repo": "datatools-server",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1040,7 +1101,8 @@
                     "owner": "conveyal",
                     "repo": "transit-wand",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1055,7 +1117,8 @@
                     "owner": "atlregional",
                     "repo": "bus-router",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1070,7 +1133,8 @@
                     "owner": "kostjerry",
                     "repo": "gtfs-station-builder",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1085,7 +1149,8 @@
                     "owner": "mfdz",
                     "repo": "amarillo",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1100,7 +1165,8 @@
                     "owner": "TransitApp",
                     "repo": "GTFS-blocks-to-transfers",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1115,7 +1181,8 @@
                     "owner": "HSLdevcom",
                     "repo": "gtfs_shape_mapfit",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1130,7 +1197,8 @@
                     "owner": "laidig",
                     "repo": "vagrant-gtfs-editor",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1145,7 +1213,8 @@
                     "owner": "entur",
                     "repo": "uttu",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1160,7 +1229,8 @@
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-tts",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1175,7 +1245,8 @@
                     "owner": "cal-itp",
                     "repo": "ibi-datatools-infra",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1197,7 +1268,8 @@
                     "owner": "google",
                     "repo": "transitfeed",
                     "stars": 687
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1212,7 +1284,8 @@
                     "owner": "araichev",
                     "repo": "gtfs_kit",
                     "stars": 124
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1227,7 +1300,8 @@
                     "owner": "psrc",
                     "repo": "combine_gtfs_feeds",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1242,7 +1316,8 @@
                     "owner": "now8-org",
                     "repo": "gtfsmerge",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1263,8 +1338,9 @@
                     "last_commit": "2026-08-18T10:22:38Z",
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1877
-                  }
+                    "stars": 1883
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1279,7 +1355,8 @@
                     "owner": "conveyal",
                     "repo": "r5",
                     "stars": 401
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1294,7 +1371,8 @@
                     "owner": "kuanb",
                     "repo": "peartree",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1309,7 +1387,8 @@
                     "owner": "Esri",
                     "repo": "public-transit-tools",
                     "stars": 195
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1324,7 +1403,8 @@
                     "owner": "r-transit",
                     "repo": "tidytransit",
                     "stars": 171
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1339,7 +1419,8 @@
                     "owner": "araichev",
                     "repo": "gtfs_kit",
                     "stars": 124
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1354,7 +1435,8 @@
                     "owner": "ipea",
                     "repo": "gtfstools",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1369,7 +1451,8 @@
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-to-chart",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1384,7 +1467,8 @@
                     "owner": "tmelliott",
                     "repo": "transitr",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1399,7 +1483,8 @@
                     "owner": "psrc",
                     "repo": "transit_service_analyst",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1414,7 +1499,8 @@
                     "owner": "bmander",
                     "repo": "busbuzzard",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1429,7 +1515,8 @@
                     "owner": "ioTransit",
                     "repo": "transit-intensity",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1440,11 +1527,12 @@
                     "archived": false,
                     "id": 1288847801,
                     "language": "HTML",
-                    "last_commit": "2026-08-27T17:57:59Z",
+                    "last_commit": "2026-08-28T18:24:44Z",
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1459,7 +1547,8 @@
                     "owner": "SparksTheFolf",
                     "repo": "trak.tools",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1481,7 +1570,8 @@
                     "owner": "neroden",
                     "repo": "timetable_kit",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1496,7 +1586,8 @@
                     "owner": "OpenTransitTools",
                     "repo": "ttpub",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1518,7 +1609,8 @@
                     "owner": "google",
                     "repo": "transitfeed",
                     "stars": 687
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1533,7 +1625,8 @@
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
                     "stars": 423
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1548,7 +1641,8 @@
                     "owner": "patrickbr",
                     "repo": "gtfstidy",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1562,8 +1656,9 @@
                     "last_commit": "2024-05-16T08:51:49Z",
                     "owner": "conveyal",
                     "repo": "gtfs-lib",
-                    "stars": 80
-                  }
+                    "stars": 81
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1577,8 +1672,9 @@
                     "last_commit": "2024-05-16T08:51:49Z",
                     "owner": "conveyal",
                     "repo": "gtfs-lib",
-                    "stars": 80
-                  }
+                    "stars": 81
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1593,7 +1689,8 @@
                     "owner": "etalab",
                     "repo": "transport-validator",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1608,7 +1705,8 @@
                     "owner": "conveyal",
                     "repo": "gtfs-validator",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1623,7 +1721,8 @@
                     "owner": "mecatran",
                     "repo": "gtfsvtor",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1638,7 +1737,8 @@
                     "owner": "Stephen-Gates",
                     "repo": "GTFS",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1653,7 +1753,8 @@
                     "owner": "public-transport",
                     "repo": "gtfsclean",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1668,7 +1769,8 @@
                     "owner": "TransitApp",
                     "repo": "gtfs-fares-v2-validator",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1683,7 +1785,8 @@
                     "owner": "cal-itp",
                     "repo": "gtfs-validator-api",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1698,7 +1801,8 @@
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-accessibility-validator",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1713,7 +1817,8 @@
                     "owner": "mobidata-bw",
                     "repo": "gtfs-validator-metrics-service",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1740,7 +1845,8 @@
                 "owner": "google",
                 "repo": "transit",
                 "stars": 1052
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -1755,7 +1861,8 @@
                 "owner": "google",
                 "repo": "transit",
                 "stars": 1052
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "children": [
@@ -1771,8 +1878,9 @@
                     "last_commit": "2026-08-24T07:23:32Z",
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-bindings",
-                    "stars": 438
-                  }
+                    "stars": 439
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1787,7 +1895,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-visualizer",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1802,7 +1911,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-exporter",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1817,7 +1927,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-trip-updates-producer-demo",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1832,7 +1943,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-alerts-producer-demo",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1847,7 +1959,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-service-alerts",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1869,7 +1982,8 @@
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-validator",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1891,7 +2005,8 @@
                     "owner": "SAUSy-Lab",
                     "repo": "retro-gtfs",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1906,7 +2021,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "gtfsrdb",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1921,7 +2037,8 @@
                     "owner": "tsdataclinic",
                     "repo": "gtfs-realtime-capsule",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1936,7 +2053,8 @@
                     "owner": "OpenTransitTools",
                     "repo": "gtfsdb_realtime",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -1958,7 +2076,8 @@
                     "owner": "etalab",
                     "repo": "transpo-rt",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1973,7 +2092,8 @@
                     "owner": "Intersection",
                     "repo": "gtfs-realtime-translators",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -1988,7 +2108,8 @@
                     "owner": "derhuerst",
                     "repo": "hafas-gtfs-rt-feed",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2003,7 +2124,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "HART-GTFS-realtimeGenerator",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2018,7 +2140,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-from-nextbus-cli",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2033,7 +2156,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-from-siri-cli",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2048,7 +2172,8 @@
                     "owner": "kurtraschke",
                     "repo": "wmata-gtfsrealtime",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2063,7 +2188,8 @@
                     "owner": "kurtraschke",
                     "repo": "ctatt-gtfsrealtime",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2078,7 +2204,8 @@
                     "owner": "ipublic",
                     "repo": "live_transit_event_trigger",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2093,7 +2220,8 @@
                     "owner": "jestin",
                     "repo": "CivicTransit",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2108,7 +2236,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "bullrunner-gtfs-realtime-generator",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2123,7 +2252,8 @@
                     "owner": "bdferris",
                     "repo": "onebusaway-sound-transit-realtime",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2138,7 +2268,8 @@
                     "owner": "kurtraschke",
                     "repo": "septa-gtfsrealtime",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2153,7 +2284,8 @@
                     "owner": "prashtx",
                     "repo": "ddot-avl",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2168,7 +2300,8 @@
                     "owner": "bliksemlabs",
                     "repo": "bliksemintegration-realtime",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -2189,8 +2322,9 @@
                     "last_commit": "2026-02-26T00:57:24Z",
                     "owner": "public-transport",
                     "repo": "gtfs-rt-inspector",
-                    "stars": 59
-                  }
+                    "stars": 60
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2205,7 +2339,8 @@
                     "owner": "cmoscardi",
                     "repo": "bus_kalman",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2220,7 +2355,8 @@
                     "owner": "mbta",
                     "repo": "concentrate",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2235,7 +2371,8 @@
                     "owner": "kurtraschke",
                     "repo": "gtfs-rt-dump",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2250,7 +2387,8 @@
                     "owner": "derhuerst",
                     "repo": "print-gtfs-rt-cli",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2265,7 +2403,8 @@
                     "owner": "tmelliott",
                     "repo": "TransitNetworkModel",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2280,7 +2419,8 @@
                     "owner": "laidig",
                     "repo": "gtfs-rt-printer",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2295,7 +2435,8 @@
                     "owner": "teckkean",
                     "repo": "GTFS-Data-Pipeline-TfNSW-Bus",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2310,7 +2451,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "transit-feed-quality-calculator",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2325,7 +2467,8 @@
                     "owner": "conveyal",
                     "repo": "gtfs-rt-admin",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2340,7 +2483,8 @@
                     "owner": "derhuerst",
                     "repo": "gtfs-rt-differential-to-full-dataset",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2355,7 +2499,8 @@
                     "owner": "pailakka",
                     "repo": "manual-gtfsrt",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2370,7 +2515,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "gtfs-realtime-test-service",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2385,7 +2531,8 @@
                     "owner": "jdamcd",
                     "repo": "gtfs-mcp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2400,7 +2547,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-munin-plugin",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2415,7 +2563,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-nagios-plugin",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -2442,7 +2591,8 @@
                 "owner": "OneBusAway",
                 "repo": "onebusaway",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2457,7 +2607,8 @@
                 "owner": "CUTR-at-USF",
                 "repo": "SiriRestClient",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2472,7 +2623,8 @@
                 "owner": "enroute-mobi",
                 "repo": "ara",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2487,7 +2639,8 @@
                 "owner": "OneBusAway",
                 "repo": "onebusaway-gtfs-realtime-from-siri-cli",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2502,7 +2655,8 @@
                 "owner": "laidig",
                 "repo": "siri-20-java",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2517,7 +2671,8 @@
                 "owner": "CUTR-at-USF",
                 "repo": "onebusaway-siri-api-v13-pojos",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2532,7 +2687,8 @@
                 "owner": "bdferris",
                 "repo": "onebusaway-king-county-metro",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2547,7 +2703,8 @@
                 "owner": "laidig",
                 "repo": "pysiri2validator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -2571,7 +2728,8 @@
                     "owner": "openmobilityfoundation",
                     "repo": "mobility-data-specification",
                     "stars": 746
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2586,7 +2744,8 @@
                     "owner": "TOMP-WG",
                     "repo": "TOMP-API",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -2608,7 +2767,8 @@
                     "owner": "zephyr-data-specs",
                     "repo": "GMNS",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2623,7 +2783,8 @@
                     "owner": "UnionInternationalCheminsdeFer",
                     "repo": "OSDM",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2638,7 +2799,8 @@
                     "owner": "curblr",
                     "repo": "curblr-spec",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2653,7 +2815,8 @@
                     "owner": "TIDES-transit",
                     "repo": "TIDES",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2668,7 +2831,8 @@
                     "owner": "osPlanning",
                     "repo": "omx",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2683,7 +2847,8 @@
                     "owner": "ODOT-PTS",
                     "repo": "GTFS-ride",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2698,7 +2863,8 @@
                     "owner": "VDVde",
                     "repo": "OJP",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2713,7 +2879,8 @@
                     "owner": "osplanning-data-standards",
                     "repo": "GTFS-PLUS",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2728,7 +2895,8 @@
                     "owner": "d-wasserman",
                     "repo": "shared-row",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2743,7 +2911,8 @@
                     "owner": "maasglobal",
                     "repo": "maas-tsp-api",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2758,7 +2927,8 @@
                     "owner": "vta",
                     "repo": "Managed-and-Tolled-Lanes-Feed-Specification",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2773,7 +2943,8 @@
                     "owner": "cualbondi",
                     "repo": "osmptparser",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2788,7 +2959,8 @@
                     "owner": "Jungle-Bus",
                     "repo": "prism",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2803,7 +2975,8 @@
                     "owner": "osplanning-data-standards",
                     "repo": "GTFS-STAT",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2818,7 +2991,8 @@
                     "owner": "osplanning-data-standards",
                     "repo": "dyno-demand",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2833,7 +3007,8 @@
                     "owner": "osplanning-data-standards",
                     "repo": "dyno-path",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -2848,7 +3023,8 @@
                     "owner": "RWTH-i5-IDSG",
                     "repo": "ixsi",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -2871,11 +3047,12 @@
                 "archived": false,
                 "id": 3480666,
                 "language": "Java",
-                "last_commit": "2026-08-27T18:01:44Z",
+                "last_commit": "2026-08-27T20:47:27Z",
                 "owner": "graphhopper",
                 "repo": "graphhopper",
                 "stars": 6647
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2890,7 +3067,8 @@
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 605
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2905,7 +3083,8 @@
                 "owner": "hove-io",
                 "repo": "navitia",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2920,7 +3099,8 @@
                 "owner": "OneBusAway",
                 "repo": "onebusaway-application-modules",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2935,7 +3115,8 @@
                 "owner": "denysvitali",
                 "repo": "gtfs-server",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2950,7 +3131,8 @@
                 "owner": "public-transport",
                 "repo": "hafas-rest-api",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2965,7 +3147,8 @@
                 "owner": "keyone2693",
                 "repo": "IRTrainDotNet",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -2980,7 +3163,8 @@
                 "owner": "ioTransit",
                 "repo": "simple-transit-api",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": "Software that you can set up to provide an API to transit and multimodal data.",
@@ -3004,11 +3188,12 @@
                 "archived": false,
                 "id": 386074506,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:55:00Z",
+                "last_commit": "2026-08-28T16:07:41Z",
                 "owner": "MobilityData",
                 "repo": "mobility-database-catalogs",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3030,7 +3215,8 @@
                 "owner": "scascketta",
                 "repo": "CapMetrics",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3052,7 +3238,8 @@
                 "owner": "public-transport",
                 "repo": "european-transport-operators",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3074,7 +3261,8 @@
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 605
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3089,7 +3277,8 @@
                 "owner": "hove-io",
                 "repo": "navitia",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3111,7 +3300,8 @@
                 "owner": "mfdz",
                 "repo": "gtfs-hub",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3133,7 +3323,8 @@
                 "owner": "interline-io",
                 "repo": "transitland-lib",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3148,7 +3339,8 @@
                 "owner": "public-transport",
                 "repo": "sample-gtfs-feed",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3178,7 +3370,8 @@
                     "owner": "conveyal",
                     "repo": "transitive.js",
                     "stars": 701
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3193,7 +3386,8 @@
                     "owner": "googlemaps",
                     "repo": "transport-tracker",
                     "stars": 581
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3208,7 +3402,8 @@
                     "owner": "vasile",
                     "repo": "transit-map",
                     "stars": 371
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3223,7 +3418,8 @@
                     "owner": "norn",
                     "repo": "bustime",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3238,7 +3434,8 @@
                     "owner": "luqmaan",
                     "repo": "Instabus",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3253,7 +3450,8 @@
                     "owner": "opentripplanner",
                     "repo": "otp-ui",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3268,7 +3466,8 @@
                     "owner": "conveyal",
                     "repo": "otp.js",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3283,7 +3482,8 @@
                     "owner": "Code4HR",
                     "repo": "hrt-bus-api",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3298,7 +3498,8 @@
                     "owner": "mecatran",
                     "repo": "OpenTripPlanner-client-gwt",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3313,7 +3514,8 @@
                     "owner": "mbta",
                     "repo": "tile-server",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3328,7 +3530,8 @@
                     "owner": "tarifazero",
                     "repo": "monitoramento",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3343,7 +3546,8 @@
                     "owner": "ObsidianSeal",
                     "repo": "pinniped.page",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3358,7 +3562,8 @@
                     "owner": "CMU-RERC-APT",
                     "repo": "tiramisu3-pr",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3373,7 +3578,8 @@
                     "owner": "OneBusAway",
                     "repo": "onebusaway-service-alerts",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -3391,11 +3597,12 @@
                     "archived": false,
                     "id": 12888993,
                     "language": "Python",
-                    "last_commit": "2026-08-27T18:04:51Z",
+                    "last_commit": "2026-08-28T19:32:13Z",
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90137
-                  }
+                    "stars": 90166
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3410,7 +3617,8 @@
                     "owner": "grote",
                     "repo": "Transportr",
                     "stars": 1177
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3421,11 +3629,12 @@
                     "archived": false,
                     "id": 1873841,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T06:32:31Z",
+                    "last_commit": "2026-08-28T18:34:05Z",
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
                     "stars": 563
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3440,7 +3649,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "OpenTripPlanner-for-Android",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3455,7 +3665,8 @@
                     "owner": "opentripplanner",
                     "repo": "OpenTripPlanner-iOS",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3470,7 +3681,8 @@
                     "owner": "KDE",
                     "repo": "itinerary",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3485,7 +3697,8 @@
                     "owner": "trufi-association",
                     "repo": "trufi-app",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3500,7 +3713,8 @@
                     "owner": "jdamcd",
                     "repo": "arrivals-kmp",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3515,7 +3729,8 @@
                     "owner": "yeSpud",
                     "repo": "MACSTransitApp",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3530,7 +3745,8 @@
                     "owner": "CMU-RERC-APT",
                     "repo": "tiramisu3-pr",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3545,7 +3761,8 @@
                     "owner": "CUTR-at-USF",
                     "repo": "opentripplanner-client-library",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3560,7 +3777,8 @@
                     "owner": "data-creative",
                     "repo": "NextTrainCT",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -3587,7 +3805,8 @@
                 "owner": "chrisys",
                 "repo": "train-departure-display",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3602,7 +3821,8 @@
                 "owner": "tomunderwood99",
                 "repo": "CharlieBoard",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3617,7 +3837,8 @@
                 "owner": "herrdragon",
                 "repo": "busTrackingGps",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3632,7 +3853,8 @@
                 "owner": "jdamcd",
                 "repo": "arrivals-led",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": "Experimental and production transit hardware.",
@@ -3654,7 +3876,8 @@
                 "owner": "public-transport",
                 "repo": "friendly-public-transport-format",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3669,7 +3892,8 @@
                 "owner": "alexander-albers",
                 "repo": "tripkit",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3684,7 +3908,8 @@
                 "owner": "bileto",
                 "repo": "motis-java-client",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": null,
@@ -3708,7 +3933,8 @@
                     "owner": "mapnificent",
                     "repo": "mapnificent",
                     "stars": 406
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3723,7 +3949,8 @@
                     "owner": "transitland",
                     "repo": "transitland-processing-animation",
                     "stars": 291
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3738,7 +3965,8 @@
                     "owner": "cmichi",
                     "repo": "gtfs-visualizations",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3753,7 +3981,8 @@
                     "owner": "CxAalto",
                     "repo": "gtfspy-webviz",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3768,7 +3997,8 @@
                     "owner": "gabrielAHN",
                     "repo": "gtfs-viz",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3783,7 +4013,8 @@
                     "owner": "sidewalklabs",
                     "repo": "totx",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3798,7 +4029,8 @@
                     "owner": "kylebarron",
                     "repo": "all-transit",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3813,7 +4045,8 @@
                     "owner": "vta",
                     "repo": "fastest-bus-analysis-in-the-west",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3828,7 +4061,8 @@
                     "owner": "ODOT-PTS",
                     "repo": "TNExT",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3843,7 +4077,8 @@
                     "owner": "zackAemmer",
                     "repo": "transit-vis",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3858,7 +4093,8 @@
                     "owner": "ttezer",
                     "repo": "gtfs-city",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -3873,7 +4109,8 @@
                     "owner": "ioTransit",
                     "repo": "simple-transit-site",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -3895,7 +4132,8 @@
                     "owner": "ad-freiburg",
                     "repo": "loom",
                     "stars": 297
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -3917,7 +4155,8 @@
                     "owner": "simonpcouch",
                     "repo": "gbfs",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -3944,7 +4183,8 @@
                 "owner": "camsys",
                 "repo": "ridepilot",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3959,7 +4199,8 @@
                 "owner": "ODOT-PTS",
                 "repo": "TNExT",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3974,7 +4215,8 @@
                 "owner": "metrotransit",
                 "repo": "route-trends",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -3989,7 +4231,8 @@
                 "owner": "actransitorg",
                 "repo": "ACTransit.Training",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -4004,7 +4247,8 @@
                 "owner": "actransitorg",
                 "repo": "ACTransit.CusRel",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -4019,7 +4263,8 @@
                 "owner": "data-creative",
                 "repo": "next-train-api",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "node_type": "item",
@@ -4034,7 +4279,8 @@
                 "owner": "actransitorg",
                 "repo": "ACTransit.RestroomFinder",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             }
           ],
           "description": "Tools for transit agencies. See also GTFS Data Collection and Maintenance Tools for tools specific to GTFS.",
@@ -4058,11 +4304,12 @@
                 "archived": false,
                 "id": 2067253,
                 "language": "Java",
-                "last_commit": "2026-08-27T14:04:54Z",
+                "last_commit": "2026-08-28T07:30:45Z",
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
                 "stars": 2723
-              }
+              },
+              "first_seen": "2026-08-28T19:35:33.758Z"
             },
             {
               "children": [
@@ -4079,7 +4326,8 @@
                     "owner": "transportkollektiv",
                     "repo": "meetup",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -4094,7 +4342,8 @@
                     "owner": "transportkollektiv",
                     "repo": "meetup",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -4109,7 +4358,8 @@
                     "owner": "hasadna",
                     "repo": "OpenTrainCommunity",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -4138,7 +4388,8 @@
                     "owner": "mjskay",
                     "repo": "when-ish-is-my-bus",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -4160,7 +4411,8 @@
                     "owner": "mjskay",
                     "repo": "when-ish-is-my-bus",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -4175,7 +4427,8 @@
                     "owner": "zackAemmer",
                     "repo": "transit-vis",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 },
                 {
                   "node_type": "item",
@@ -4190,7 +4443,8 @@
                     "owner": "pwr-inf",
                     "repo": "gtfs2vec",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -4208,11 +4462,12 @@
                     "archived": false,
                     "id": 1188844769,
                     "language": "Python",
-                    "last_commit": "2026-08-25T15:08:38Z",
+                    "last_commit": "2026-08-28T08:40:33Z",
                     "owner": "GeiserX",
                     "repo": "awesome-europe",
-                    "stars": 125
-                  }
+                    "stars": 126
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
                 }
               ],
               "description": null,
@@ -4229,7 +4484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:24:47.843Z",
+    "last_updated": "2026-08-28T19:35:33.758Z",
     "original_repository_info": {
       "archived": false,
       "id": 40631174,

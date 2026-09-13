@@ -142,7 +142,7 @@
                         "open_issues": 2,
                         "owner": "mesozoic-drones",
                         "repo": "just_gtfs",
-                        "stars": 27,
+                        "stars": 28,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:35:33.758Z"
@@ -1486,7 +1486,7 @@
                     "open_issues": 158,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 419,
+                    "stars": 420,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -1979,7 +1979,7 @@
                     "open_issues": 3,
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1911,
+                    "stars": 1914,
                     "topics": [
                       "city2graph",
                       "geoai",
@@ -2302,8 +2302,8 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T11:28:56Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-09-13T12:36:53Z",
+                    "open_issues": 30,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1,
@@ -2466,7 +2466,7 @@
                     "open_issues": 158,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 419,
+                    "stars": 420,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -2775,7 +2775,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2796,7 +2796,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -4506,11 +4506,11 @@
                 "id": 3480666,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T23:16:16Z",
+                "last_commit": "2026-09-12T12:16:01Z",
                 "open_issues": 242,
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6686,
+                "stars": 6687,
                 "topics": [
                   "astar",
                   "dijkstra",
@@ -4736,7 +4736,7 @@
                 "open_issues": 198,
                 "owner": "MobilityData",
                 "repo": "mobility-database-catalogs",
-                "stars": 344,
+                "stars": 346,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -5321,11 +5321,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T11:30:17Z",
-                    "open_issues": 3545,
+                    "last_commit": "2026-09-13T12:40:26Z",
+                    "open_issues": 3559,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90394,
+                    "stars": 90404,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -5380,7 +5380,7 @@
                     "open_issues": 111,
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
-                    "stars": 565,
+                    "stars": 566,
                     "topics": [
                       "android",
                       "java",
@@ -5446,11 +5446,11 @@
                     "id": 131281613,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T02:49:57Z",
+                    "last_commit": "2026-09-13T11:14:18Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "itinerary",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6363,10 +6363,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T08:53:14Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2735,
+                "stars": 2736,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6622,7 +6622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:43:31.410Z",
+    "last_updated": "2026-09-13T12:51:05.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
@@ -6634,7 +6634,7 @@
       "open_issues": 21,
       "owner": "MobilityData",
       "repo": "awesome-transit",
-      "stars": 1831,
+      "stars": 1833,
       "topics": [
         "awesome",
         "awesome-list",

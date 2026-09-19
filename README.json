@@ -259,7 +259,7 @@
                         "open_issues": 7,
                         "owner": "BlinkTagInc",
                         "repo": "node-gtfs",
-                        "stars": 504,
+                        "stars": 505,
                         "topics": [
                           "geojson",
                           "gtfs",
@@ -1486,7 +1486,7 @@
                     "open_issues": 154,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 422,
+                    "stars": 423,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -2002,7 +2002,7 @@
                     "open_issues": 3,
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1918,
+                    "stars": 1920,
                     "topics": [
                       "city2graph",
                       "geoai",
@@ -2316,7 +2316,7 @@
                 {
                   "node_type": "item",
                   "title": "GTFS Scorecard",
-                  "description": "Daily, open-source GTFS and GTFS-Realtime quality scoring for a curated registry of 1,700+ feed records with 1,100+ published scorecards, rider-focused fix guidance, agency and program views, trend history, a read API, pre-publish checks, and a GitHub Action.",
+                  "description": "Daily, open-source GTFS and GTFS-Realtime quality scoring, built on the MobilityData validator, for a curated registry of 2,400+ feed records, virtually all with a published scorecard. Rider-focused fix guidance, agency/program/state-NTD-readiness views, trend history, a read API, pre-publish checks via a GitHub Action, and a paid report bundle for programs supporting many agencies.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2325,8 +2325,8 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T12:00:54Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-09-19T11:55:44Z",
+                    "open_issues": 28,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1,
@@ -2489,7 +2489,7 @@
                     "open_issues": 154,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 422,
+                    "stars": 423,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -2641,6 +2641,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "gtfsclean",
+                  "description": "A tool for checking, sanitizing, and minimizing GTFS feeds. Fork of gtfstidy, with some additional fixes that haven't been merged upstream yet.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A tool for checking, sanitizing and minimizing GTFS feeds. This is our fork of gtfstidy, with some additional fixes that haven't been merged upstream yet.",
+                    "homepage": null,
+                    "id": 797325435,
+                    "language": "Go",
+                    "license": "GPL-2.0",
+                    "last_commit": "2026-05-01T15:03:19Z",
+                    "open_issues": 4,
+                    "owner": "public-transport",
+                    "repo": "gtfsclean",
+                    "stars": 19,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "GTFS Data Package Specification",
                   "description": "A Data Package specification with validation accomplished with Good Tables. Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.",
                   "children": [],
@@ -2667,24 +2688,41 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "gtfsclean",
-                  "description": "A tool for checking, sanitizing, and minimizing GTFS feeds. Fork of gtfstidy, with some additional fixes that haven't been merged upstream yet.",
+                  "title": "GTFS Analyzer",
+                  "description": "An open-source, local-first GTFS Schedule validator and quality analyzer written in Rust, available as a browser-based WebAssembly app, a Cargo-installable CLI, a Rust library, an npm SDK, and a CI/CD integration. It supports multilingual reports in Turkish, English, and Japanese, GTFS-JP v3/v4 profile validation, local browser processing without feed uploads, and additional specification, interoperability, accessibility, geographic, service, and operational quality analysis. Web app.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A tool for checking, sanitizing and minimizing GTFS feeds. This is our fork of gtfstidy, with some additional fixes that haven't been merged upstream yet.",
-                    "homepage": null,
-                    "id": 797325435,
-                    "language": "Go",
-                    "license": "GPL-2.0",
-                    "last_commit": "2026-05-01T15:03:19Z",
-                    "open_issues": 4,
-                    "owner": "public-transport",
-                    "repo": "gtfsclean",
-                    "stars": 18,
-                    "topics": []
+                    "description": "EN: Browser-based open-source GTFS validator & feed quality analyzer; data stays on-device. TR: Tarayıcıda çalışan açık kaynak GTFS doğrulayıcı ve kalite analiz aracı; veri cihazınızda kalır. JP: ブラウザで動作するオープンソースGTFSバリデーター・品質分析ツール。データは端末内で処理されます。",
+                    "homepage": "https://ttezer.github.io/gtfs-analyzer/",
+                    "id": 1240976439,
+                    "language": "Rust",
+                    "license": "MIT",
+                    "last_commit": "2026-09-19T09:43:37Z",
+                    "open_issues": 1,
+                    "owner": "ttezer",
+                    "repo": "gtfs-analyzer",
+                    "stars": 8,
+                    "topics": [
+                      "analyzer",
+                      "data-quality",
+                      "data-validation",
+                      "gtfs",
+                      "gtfs-analysis",
+                      "gtfs-feed",
+                      "gtfs-jp",
+                      "gtfs-static",
+                      "gtfs-validator",
+                      "public-transport",
+                      "publictransportation",
+                      "rust",
+                      "transit",
+                      "transit-data",
+                      "validator",
+                      "webassembly"
+                    ]
                   },
-                  "first_seen": "2026-08-28T19:35:33.758Z"
+                  "first_seen": "2026-09-19T12:03:50.744Z"
                 },
                 {
                   "node_type": "item",
@@ -2706,6 +2744,48 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "tods-validate",
+                  "description": "A Python validator and GitHub Action for TODS feeds, the operational overlay to GTFS covering crew runs, deadheads and vehicle assignments. Checks a feed against TODS v2.1.0, cross-checks the companion GTFS, and cites the spec section behind each finding. Also runs entirely in the browser via WebAssembly, so non-public operational data is not uploaded.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Beta. Validator for Transit Operational Data Standard feeds: the crew runs, deadheads and vehicle assignments that GTFS does not cover. Checks against TODS v2.1.0 with rule IDs that are never renumbered or reused, reports drift against a baseline, and ships a GitHub Action so an agency gates a bad feed before publishing.",
+                    "homepage": "https://chelseakr.github.io/tods-validate/",
+                    "id": 1266936269,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-19T05:53:57Z",
+                    "open_issues": 29,
+                    "owner": "ChelseaKR",
+                    "repo": "tods-validate",
+                    "stars": 5,
+                    "topics": [
+                      "auto-fix",
+                      "browser-playground",
+                      "cal-itp",
+                      "cli",
+                      "data-quality",
+                      "docker",
+                      "github-action",
+                      "gtfs",
+                      "language-server-protocol",
+                      "mobilitydata",
+                      "open-data",
+                      "pre-commit",
+                      "public-transit",
+                      "python",
+                      "sarif",
+                      "tods",
+                      "transit-data",
+                      "transit-operational-data-standard",
+                      "validator",
+                      "vscode"
+                    ]
+                  },
+                  "first_seen": "2026-09-19T12:03:50.744Z"
                 },
                 {
                   "node_type": "item",
@@ -2798,7 +2878,7 @@
                 "open_issues": 155,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2819,7 +2899,7 @@
                 "open_issues": 155,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -4529,11 +4609,11 @@
                 "id": 3480666,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T16:58:11Z",
+                "last_commit": "2026-09-18T17:33:28Z",
                 "open_issues": 241,
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6695,
+                "stars": 6696,
                 "topics": [
                   "astar",
                   "dijkstra",
@@ -4565,7 +4645,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-16T14:41:27Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 606,
@@ -4589,7 +4669,7 @@
                 "open_issues": 40,
                 "owner": "hove-io",
                 "repo": "navitia",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "gtfs",
                   "journey-planner",
@@ -4858,7 +4938,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-16T14:41:27Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 606,
@@ -4882,7 +4962,7 @@
                 "open_issues": 40,
                 "owner": "hove-io",
                 "repo": "navitia",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "gtfs",
                   "journey-planner",
@@ -5344,11 +5424,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T12:20:51Z",
-                    "open_issues": 3603,
+                    "last_commit": "2026-09-19T12:00:28Z",
+                    "open_issues": 3566,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90698,
+                    "stars": 90772,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -5400,10 +5480,10 @@
                     "language": "Kotlin",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-14T22:04:55Z",
-                    "open_issues": 112,
+                    "open_issues": 113,
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
-                    "stars": 567,
+                    "stars": 569,
                     "topics": [
                       "android",
                       "java",
@@ -6385,8 +6465,8 @@
                 "id": 2067253,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T11:40:47Z",
-                "open_issues": 144,
+                "last_commit": "2026-09-18T14:43:25Z",
+                "open_issues": 143,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
                 "stars": 2742,
@@ -6645,7 +6725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:22:25.779Z",
+    "last_updated": "2026-09-19T12:03:50.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
@@ -6653,11 +6733,11 @@
       "id": 40631174,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-17T19:11:17Z",
-      "open_issues": 21,
+      "last_commit": "2026-09-18T15:44:17Z",
+      "open_issues": 19,
       "owner": "MobilityData",
       "repo": "awesome-transit",
-      "stars": 1838,
+      "stars": 1840,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6681,7 +6761,7 @@
         "transit-map"
       ]
     },
-    "original_repository_sha": "6c6606139de6e8d72078b9b31eb1ec00408926cd",
+    "original_repository_sha": "64f42f1d9a2dc70de3160366d46a54326d9d15cd",
     "enhanced_repository": "enhansome/enhansome-transit",
     "enhanced_repository_description": null,
     "title": "awesome-transit with stars"

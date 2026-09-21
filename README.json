@@ -231,7 +231,7 @@
                         "open_issues": 25,
                         "owner": "OneBusAway",
                         "repo": "onebusaway-gtfs-modules",
-                        "stars": 148,
+                        "stars": 149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:35:33.758Z"
@@ -898,8 +898,8 @@
                         "id": 129280178,
                         "language": "Rust",
                         "license": "MIT",
-                        "last_commit": "2026-09-15T14:01:27Z",
-                        "open_issues": 23,
+                        "last_commit": "2026-09-21T13:19:32Z",
+                        "open_issues": 22,
                         "owner": "rust-transit",
                         "repo": "gtfs-structure",
                         "stars": 78,
@@ -1181,6 +1181,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "NeTEx-to-GTFS Converter Java",
+                  "description": "Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Convert a NeTEx dataset into a GTFS dataset",
+                    "homepage": null,
+                    "id": 417529939,
+                    "language": "Java",
+                    "license": "EUPL-1.2",
+                    "last_commit": "2026-09-21T03:51:33Z",
+                    "open_issues": 11,
+                    "owner": "entur",
+                    "repo": "netex-gtfs-converter-java",
+                    "stars": 13,
+                    "topics": [
+                      "ror"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:35:33.758Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "o2g",
                   "description": "A simple tool to extract GTFS feed from OpenStreetMap.",
                   "children": [],
@@ -1203,29 +1226,6 @@
                       "osm",
                       "public-transport",
                       "transit"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:35:33.758Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "NeTEx-to-GTFS Converter Java",
-                  "description": "Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Convert a NeTEx dataset into a GTFS dataset",
-                    "homepage": null,
-                    "id": 417529939,
-                    "language": "Java",
-                    "license": "EUPL-1.2",
-                    "last_commit": "2026-09-16T10:56:05Z",
-                    "open_issues": 11,
-                    "owner": "entur",
-                    "repo": "netex-gtfs-converter-java",
-                    "stars": 11,
-                    "topics": [
-                      "ror"
                     ]
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -1542,7 +1542,7 @@
                     "open_issues": 64,
                     "owner": "WRI-Cities",
                     "repo": "static-GTFS-manager",
-                    "stars": 160,
+                    "stars": 161,
                     "topics": [
                       "bus",
                       "gtfs",
@@ -1619,7 +1619,7 @@
                     "id": 82857374,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T09:19:46Z",
+                    "last_commit": "2026-09-21T09:01:40Z",
                     "open_issues": 45,
                     "owner": "ibi-group",
                     "repo": "datatools-server",
@@ -1819,8 +1819,8 @@
                     "id": 145386475,
                     "language": "Java",
                     "license": "EUPL-1.2",
-                    "last_commit": "2026-09-17T18:48:26Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-09-21T07:46:59Z",
+                    "open_issues": 21,
                     "owner": "entur",
                     "repo": "uttu",
                     "stars": 7,
@@ -1999,10 +1999,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-07T05:58:31Z",
-                    "open_issues": 3,
+                    "open_issues": 5,
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1922,
+                    "stars": 1923,
                     "topics": [
                       "city2graph",
                       "geoai",
@@ -2040,8 +2040,8 @@
                     "id": 44746588,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T21:04:19Z",
-                    "open_issues": 245,
+                    "last_commit": "2026-09-20T20:00:33Z",
+                    "open_issues": 246,
                     "owner": "conveyal",
                     "repo": "r5",
                     "stars": 403,
@@ -2325,8 +2325,8 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T11:55:33Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-09-21T12:07:00Z",
+                    "open_issues": 27,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1,
@@ -2698,8 +2698,8 @@
                     "id": 1240976439,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-20T11:50:22Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-21T00:11:23Z",
+                    "open_issues": 5,
                     "owner": "ttezer",
                     "repo": "gtfs-analyzer",
                     "stars": 8,
@@ -2878,7 +2878,7 @@
                 "open_issues": 155,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1073,
+                "stars": 1076,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2899,7 +2899,7 @@
                 "open_issues": 155,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1073,
+                "stars": 1076,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -3844,7 +3844,7 @@
                     "id": 1181943967,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-05-19T21:59:57Z",
+                    "last_commit": "2026-09-20T16:34:35Z",
                     "open_issues": 1,
                     "owner": "jdamcd",
                     "repo": "gtfs-mcp",
@@ -4609,11 +4609,11 @@
                 "id": 3480666,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:33:28Z",
+                "last_commit": "2026-09-21T12:30:20Z",
                 "open_issues": 241,
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6695,
+                "stars": 6696,
                 "topics": [
                   "astar",
                   "dijkstra",
@@ -5024,8 +5024,8 @@
                 "id": 188310320,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T10:10:55Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-20T19:59:09Z",
+                "open_issues": 19,
                 "owner": "interline-io",
                 "repo": "transitland-lib",
                 "stars": 53,
@@ -5215,8 +5215,8 @@
                     "id": 222808065,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T19:46:40Z",
-                    "open_issues": 90,
+                    "last_commit": "2026-09-20T15:50:14Z",
+                    "open_issues": 89,
                     "owner": "opentripplanner",
                     "repo": "otp-ui",
                     "stars": 72,
@@ -5424,11 +5424,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T12:01:05Z",
-                    "open_issues": 3620,
+                    "last_commit": "2026-09-21T11:37:42Z",
+                    "open_issues": 3640,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 90855,
+                    "stars": 90940,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -5458,7 +5458,7 @@
                     "open_issues": 114,
                     "owner": "grote",
                     "repo": "Transportr",
-                    "stars": 1174,
+                    "stars": 1175,
                     "topics": [
                       "android-app",
                       "map",
@@ -5528,7 +5528,7 @@
                     "id": 131281613,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-20T10:31:47Z",
+                    "last_commit": "2026-09-21T14:22:13Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "itinerary",
@@ -5591,7 +5591,7 @@
                     "id": 592216258,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T12:24:22Z",
+                    "last_commit": "2026-09-20T13:51:37Z",
                     "open_issues": 1,
                     "owner": "jdamcd",
                     "repo": "arrivals-kmp",
@@ -6273,7 +6273,7 @@
                     "open_issues": 1,
                     "owner": "simonpcouch",
                     "repo": "gbfs",
-                    "stars": 38,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6465,11 +6465,11 @@
                 "id": 2067253,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T14:43:25Z",
-                "open_issues": 143,
+                "last_commit": "2026-09-20T17:40:45Z",
+                "open_issues": 146,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2742,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6684,7 +6684,7 @@
                     "open_issues": 3,
                     "owner": "GeiserX",
                     "repo": "awesome-europe",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": [
                       "awesome",
                       "awesome-europe",
@@ -6725,7 +6725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:37:34.873Z",
+    "last_updated": "2026-09-21T14:32:30.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
@@ -6737,7 +6737,7 @@
       "open_issues": 21,
       "owner": "MobilityData",
       "repo": "awesome-transit",
-      "stars": 1841,
+      "stars": 1844,
       "topics": [
         "awesome",
         "awesome-list",

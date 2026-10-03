@@ -2362,8 +2362,8 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T03:31:09Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-10-03T11:57:20Z",
+                    "open_issues": 25,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
                     "stars": 1,
@@ -2878,7 +2878,7 @@
                     "id": 1184182208,
                     "language": "JavaScript",
                     "license": "EUPL-1.2",
-                    "last_commit": "2026-09-25T14:09:08Z",
+                    "last_commit": "2026-10-03T08:09:11Z",
                     "open_issues": 8,
                     "owner": "mobidata-bw",
                     "repo": "gtfs-validator-metrics-service",
@@ -5461,11 +5461,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T00:59:58Z",
-                    "open_issues": 3624,
+                    "last_commit": "2026-10-03T11:57:42Z",
+                    "open_issues": 3621,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 91228,
+                    "stars": 91233,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -6503,10 +6503,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:46:01Z",
-                "open_issues": 150,
+                "open_issues": 149,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2746,
+                "stars": 2747,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6762,7 +6762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:41.380Z",
+    "last_updated": "2026-10-03T12:43:53.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",

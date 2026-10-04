@@ -227,8 +227,8 @@
                         "id": 3423262,
                         "language": "Java",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-02T21:45:55Z",
-                        "open_issues": 26,
+                        "last_commit": "2026-10-04T11:26:10Z",
+                        "open_issues": 27,
                         "owner": "OneBusAway",
                         "repo": "onebusaway-gtfs-modules",
                         "stars": 149,
@@ -1523,7 +1523,7 @@
                     "open_issues": 156,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -1982,7 +1982,7 @@
                     "open_issues": 2,
                     "owner": "psrc",
                     "repo": "combine_gtfs_feeds",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2039,7 +2039,7 @@
                     "open_issues": 3,
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1937,
+                    "stars": 1940,
                     "topics": [
                       "city2graph",
                       "geoai",
@@ -2362,7 +2362,7 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T11:57:20Z",
+                    "last_commit": "2026-10-04T10:52:15Z",
                     "open_issues": 25,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
@@ -2526,7 +2526,7 @@
                     "open_issues": 156,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -2735,7 +2735,7 @@
                     "id": 1240976439,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T19:51:01Z",
+                    "last_commit": "2026-10-03T22:45:17Z",
                     "open_issues": 1,
                     "owner": "ttezer",
                     "repo": "gtfs-analyzer",
@@ -2798,7 +2798,7 @@
                     "open_issues": 36,
                     "owner": "ChelseaKR",
                     "repo": "tods-validate",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": [
                       "auto-fix",
                       "browser-playground",
@@ -5384,7 +5384,7 @@
                     "id": 551686250,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-03T03:42:29Z",
+                    "last_commit": "2026-10-04T06:47:20Z",
                     "open_issues": 0,
                     "owner": "ObsidianSeal",
                     "repo": "pinniped.page",
@@ -5461,11 +5461,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T11:57:42Z",
-                    "open_issues": 3621,
+                    "last_commit": "2026-10-04T13:27:58Z",
+                    "open_issues": 3634,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 91233,
+                    "stars": 91252,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -5565,7 +5565,7 @@
                     "id": 131281613,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T03:45:17Z",
+                    "last_commit": "2026-10-04T03:41:58Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "itinerary",
@@ -6282,7 +6282,7 @@
                     "open_issues": 12,
                     "owner": "ad-freiburg",
                     "repo": "loom",
-                    "stars": 301,
+                    "stars": 302,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6506,7 +6506,7 @@
                 "open_issues": 149,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2747,
+                "stars": 2748,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6717,7 +6717,7 @@
                     "id": 1188844769,
                     "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-03T00:37:21Z",
+                    "last_commit": "2026-10-03T19:36:08Z",
                     "open_issues": 4,
                     "owner": "GeiserX",
                     "repo": "awesome-europe",
@@ -6762,7 +6762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:43:53.352Z",
+    "last_updated": "2026-10-04T13:28:24.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",

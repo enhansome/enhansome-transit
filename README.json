@@ -554,7 +554,7 @@
                         "open_issues": 12,
                         "owner": "Bondify",
                         "repo": "gtfs_functions",
-                        "stars": 140,
+                        "stars": 141,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:35:33.758Z"
@@ -1523,7 +1523,7 @@
                     "open_issues": 153,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 427,
+                    "stars": 429,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -1579,7 +1579,7 @@
                     "open_issues": 64,
                     "owner": "WRI-Cities",
                     "repo": "static-GTFS-manager",
-                    "stars": 161,
+                    "stars": 160,
                     "topics": [
                       "bus",
                       "gtfs",
@@ -1940,7 +1940,7 @@
                     "open_issues": 192,
                     "owner": "google",
                     "repo": "transitfeed",
-                    "stars": 686,
+                    "stars": 685,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2035,11 +2035,11 @@
                     "id": 918287261,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-06T00:56:59Z",
+                    "last_commit": "2026-10-10T11:17:44Z",
                     "open_issues": 4,
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1940,
+                    "stars": 1941,
                     "topics": [
                       "city2graph",
                       "geoai",
@@ -2362,7 +2362,7 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T12:05:12Z",
+                    "last_commit": "2026-10-10T12:00:02Z",
                     "open_issues": 26,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
@@ -2505,7 +2505,7 @@
                     "open_issues": 192,
                     "owner": "google",
                     "repo": "transitfeed",
-                    "stars": 686,
+                    "stars": 685,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2526,7 +2526,7 @@
                     "open_issues": 153,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
-                    "stars": 427,
+                    "stars": 429,
                     "topics": [
                       "docker",
                       "gtfs",
@@ -2915,7 +2915,7 @@
                 "open_issues": 156,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2936,7 +2936,7 @@
                 "open_issues": 156,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -4682,7 +4682,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-07T17:19:40Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 607,
@@ -4975,7 +4975,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-07T17:19:40Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "eskerda",
                 "repo": "pybikes",
                 "stars": 607,
@@ -5061,7 +5061,7 @@
                 "id": 188310320,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T10:44:24Z",
+                "last_commit": "2026-10-10T11:10:09Z",
                 "open_issues": 21,
                 "owner": "interline-io",
                 "repo": "transitland-lib",
@@ -5253,7 +5253,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-07T19:48:39Z",
-                    "open_issues": 89,
+                    "open_issues": 90,
                     "owner": "opentripplanner",
                     "repo": "otp-ui",
                     "stars": 73,
@@ -5461,11 +5461,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T14:39:50Z",
-                    "open_issues": 3520,
+                    "last_commit": "2026-10-10T13:56:20Z",
+                    "open_issues": 3358,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 91336,
+                    "stars": 91352,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -5565,7 +5565,7 @@
                     "id": 131281613,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T00:47:54Z",
+                    "last_commit": "2026-10-10T12:39:56Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "itinerary",
@@ -5775,7 +5775,7 @@
                 "open_issues": 33,
                 "owner": "chrisys",
                 "repo": "train-departure-display",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "balena",
                   "balenacloud",
@@ -6279,10 +6279,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-24T13:00:10Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "ad-freiburg",
                     "repo": "loom",
-                    "stars": 304,
+                    "stars": 306,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6503,10 +6503,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T09:45:20Z",
-                "open_issues": 154,
+                "open_issues": 155,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
-                "stars": 2751,
+                "stars": 2752,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6762,7 +6762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:40:18.015Z",
+    "last_updated": "2026-10-10T13:58:05.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
@@ -6774,7 +6774,7 @@
       "open_issues": 20,
       "owner": "MobilityData",
       "repo": "awesome-transit",
-      "stars": 1851,
+      "stars": 1852,
       "topics": [
         "awesome",
         "awesome-list",

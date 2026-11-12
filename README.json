@@ -295,7 +295,7 @@
                         "open_issues": 28,
                         "owner": "public-transport",
                         "repo": "gtfs-via-postgres",
-                        "stars": 148,
+                        "stars": 147,
                         "topics": [
                           "gtfs",
                           "gtfs-schedule",
@@ -382,7 +382,7 @@
                         "open_issues": 28,
                         "owner": "public-transport",
                         "repo": "gtfs-via-postgres",
-                        "stars": 148,
+                        "stars": 147,
                         "topics": [
                           "gtfs",
                           "gtfs-schedule",
@@ -575,7 +575,7 @@
                         "open_issues": 0,
                         "owner": "araichev",
                         "repo": "gtfs_kit",
-                        "stars": 123,
+                        "stars": 122,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:35:33.758Z"
@@ -935,7 +935,7 @@
                     "open_issues": 3,
                     "owner": "BlinkTagInc",
                     "repo": "gtfs-to-geojson",
-                    "stars": 159,
+                    "stars": 158,
                     "topics": [
                       "geojson",
                       "gtfs",
@@ -1510,7 +1510,7 @@
                 {
                   "node_type": "item",
                   "title": "GTFS Express",
-                  "description": "Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via MobilityData's gtfs-validator.",
+                  "description": "Browser app to validate, fix and re-export GTFS feeds end to end. Validate with MobilityData's canonical validator, then fix findings in place: edit every table (point edits in the UI, bulk edits via a SQL console or a natural-language AI), reshape route geometry on a map with Shape Studio (OSRM snap-to-road), and have the AI repair assistant draft a fix, preview the rows it changes, apply it transactionally and re-validate. Full Schedule spec plus Fares v1/v2 and GTFS-Flex, feed-to-feed diff, 8 languages. Open source, AGPL-3.0: source.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1519,8 +1519,8 @@
                     "id": 212429244,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T16:19:17Z",
-                    "open_issues": 147,
+                    "last_commit": "2026-11-12T15:49:16Z",
+                    "open_issues": 144,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
                     "stars": 435,
@@ -1608,8 +1608,8 @@
                     "id": 54122046,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T15:18:20Z",
-                    "open_issues": 149,
+                    "last_commit": "2026-11-11T16:28:09Z",
+                    "open_issues": 148,
                     "owner": "ibi-group",
                     "repo": "datatools-ui",
                     "stars": 148,
@@ -1961,7 +1961,7 @@
                     "open_issues": 0,
                     "owner": "araichev",
                     "repo": "gtfs_kit",
-                    "stars": 123,
+                    "stars": 122,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2039,7 +2039,7 @@
                     "open_issues": 5,
                     "owner": "c2g-dev",
                     "repo": "city2graph",
-                    "stars": 1966,
+                    "stars": 1974,
                     "topics": [
                       "city2graph",
                       "geoai",
@@ -2077,8 +2077,8 @@
                     "id": 44746588,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T05:52:48Z",
-                    "open_issues": 254,
+                    "last_commit": "2026-11-11T18:54:45Z",
+                    "open_issues": 252,
                     "owner": "conveyal",
                     "repo": "r5",
                     "stars": 405,
@@ -2138,7 +2138,7 @@
                     "open_issues": 9,
                     "owner": "Esri",
                     "repo": "public-transit-tools",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": [
                       "accessibility",
                       "arcgis",
@@ -2209,7 +2209,7 @@
                     "open_issues": 0,
                     "owner": "araichev",
                     "repo": "gtfs_kit",
-                    "stars": 123,
+                    "stars": 122,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2362,7 +2362,7 @@
                     "id": 1288847801,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T14:48:56Z",
+                    "last_commit": "2026-11-12T14:49:54Z",
                     "open_issues": 27,
                     "owner": "ChelseaKR",
                     "repo": "gtfs-scorecard",
@@ -2522,8 +2522,8 @@
                     "id": 212429244,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T16:19:17Z",
-                    "open_issues": 147,
+                    "last_commit": "2026-11-12T15:49:16Z",
+                    "open_issues": 144,
                     "owner": "MobilityData",
                     "repo": "gtfs-validator",
                     "stars": 435,
@@ -2735,7 +2735,7 @@
                     "id": 1240976439,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T15:05:12Z",
+                    "last_commit": "2026-11-12T14:07:28Z",
                     "open_issues": 3,
                     "owner": "ttezer",
                     "repo": "gtfs-analyzer",
@@ -2915,7 +2915,7 @@
                 "open_issues": 161,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1097,
+                "stars": 1098,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2936,7 +2936,7 @@
                 "open_issues": 161,
                 "owner": "google",
                 "repo": "transit",
-                "stars": 1097,
+                "stars": 1098,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2959,7 +2959,7 @@
                     "open_issues": 23,
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-bindings",
-                    "stars": 445,
+                    "stars": 446,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -2980,7 +2980,7 @@
                     "open_issues": 6,
                     "owner": "OneBusAway",
                     "repo": "onebusaway-gtfs-realtime-visualizer",
-                    "stars": 68,
+                    "stars": 67,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -3092,7 +3092,7 @@
                     "open_issues": 128,
                     "owner": "MobilityData",
                     "repo": "gtfs-realtime-validator",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -3611,7 +3611,7 @@
                     "id": 114391883,
                     "language": "Elixir",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T16:58:15Z",
+                    "last_commit": "2026-11-12T15:40:53Z",
                     "open_issues": 10,
                     "owner": "mbta",
                     "repo": "concentrate",
@@ -3860,7 +3860,7 @@
                     "id": 1181943967,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T15:12:12Z",
+                    "last_commit": "2026-11-11T19:06:45Z",
                     "open_issues": 0,
                     "owner": "jdamcd",
                     "repo": "gtfs-mcp",
@@ -3936,6 +3936,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GTFS Zone RT Visualizer",
+                  "description": "Static web application to analyze GTFS Realtime feeds. No login needed, fast, and transparent to the specification. Open-source (AGPL-3.0) on GitHub.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Map viewer for GTFS Realtime feeds: vehicle positions, trip updates and alerts.",
+                    "homepage": "https://viz.rt.gtfs.zone",
+                    "id": 1367417876,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-11-12T00:56:30Z",
+                    "open_issues": 0,
+                    "owner": "gtfs-zone",
+                    "repo": "gtfs-zone-rt-viewer",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-12T16:15:15.473Z"
                 }
               ],
               "description": null,
@@ -4189,10 +4210,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-06T08:05:23Z",
-                    "open_issues": 46,
+                    "open_issues": 49,
                     "owner": "TOMP-WG",
                     "repo": "TOMP-API",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -4244,7 +4265,7 @@
                     "language": "Shell",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-10T10:52:24Z",
-                    "open_issues": 67,
+                    "open_issues": 70,
                     "owner": "UnionInternationalCheminsdeFer",
                     "repo": "OSDM",
                     "stars": 96,
@@ -4293,8 +4314,8 @@
                     "id": 521000924,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T15:59:54Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-11T18:55:00Z",
+                    "open_issues": 46,
                     "owner": "TIDES-transit",
                     "repo": "TIDES",
                     "stars": 66,
@@ -4646,11 +4667,11 @@
                 "id": 3480666,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T13:48:54Z",
-                "open_issues": 247,
+                "last_commit": "2026-11-12T15:20:40Z",
+                "open_issues": 245,
                 "owner": "graphhopper",
                 "repo": "graphhopper",
-                "stars": 6808,
+                "stars": 6812,
                 "topics": [
                   "astar",
                   "dijkstra",
@@ -4872,8 +4893,8 @@
                 "id": 386074506,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T00:26:53Z",
-                "open_issues": 258,
+                "last_commit": "2026-11-11T18:36:21Z",
+                "open_issues": 255,
                 "owner": "MobilityData",
                 "repo": "mobility-database-catalogs",
                 "stars": 355,
@@ -5061,7 +5082,7 @@
                 "id": 188310320,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T06:18:46Z",
+                "last_commit": "2026-11-12T12:14:11Z",
                 "open_issues": 22,
                 "owner": "interline-io",
                 "repo": "transitland-lib",
@@ -5461,11 +5482,11 @@
                     "id": 12888993,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T15:37:15Z",
-                    "open_issues": 3851,
+                    "last_commit": "2026-11-12T16:15:13Z",
+                    "open_issues": 3856,
                     "owner": "home-assistant",
                     "repo": "core",
-                    "stars": 92193,
+                    "stars": 92264,
                     "topics": [
                       "asyncio",
                       "hacktoberfest",
@@ -5516,8 +5537,8 @@
                     "id": 1873841,
                     "language": "Kotlin",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T21:49:10Z",
-                    "open_issues": 199,
+                    "last_commit": "2026-11-12T07:04:41Z",
+                    "open_issues": 203,
                     "owner": "OneBusAway",
                     "repo": "onebusaway-android",
                     "stars": 582,
@@ -5565,7 +5586,7 @@
                     "id": 131281613,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T03:12:24Z",
+                    "last_commit": "2026-11-12T02:28:35Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "itinerary",
@@ -6049,7 +6070,7 @@
                     "open_issues": 4,
                     "owner": "CxAalto",
                     "repo": "gtfspy-webviz",
-                    "stars": 68,
+                    "stars": 67,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6282,7 +6303,7 @@
                     "open_issues": 13,
                     "owner": "ad-freiburg",
                     "repo": "loom",
-                    "stars": 314,
+                    "stars": 316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:35:33.758Z"
@@ -6458,6 +6479,30 @@
             },
             {
               "node_type": "item",
+              "title": "GTFS·X",
+              "description": "Fast, free, web-based GTFS editor. GNU licensed (GitHub).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "web based tool for creating / editing GTFS feeds",
+                "homepage": "https://gtfsx.com",
+                "id": 1188361141,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-05T13:44:19Z",
+                "open_issues": 16,
+                "owner": "GTFS-X",
+                "repo": "gtfsx",
+                "stars": 3,
+                "topics": [
+                  "gtfs",
+                  "gtfs-flex"
+                ]
+              },
+              "first_seen": "2026-11-12T16:15:15.473Z"
+            },
+            {
+              "node_type": "item",
               "title": "AC Transit RestroomFinder",
               "description": "Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.",
               "children": [],
@@ -6502,7 +6547,7 @@
                 "id": 2067253,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T12:50:59Z",
+                "last_commit": "2026-11-12T15:34:25Z",
                 "open_issues": 184,
                 "owner": "opentripplanner",
                 "repo": "OpenTripPlanner",
@@ -6762,7 +6807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:37:16.529Z",
+    "last_updated": "2026-11-12T16:15:15.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
@@ -6770,11 +6815,11 @@
       "id": 40631174,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-21T16:08:02Z",
-      "open_issues": 41,
+      "last_commit": "2026-11-11T21:30:32Z",
+      "open_issues": 36,
       "owner": "MobilityData",
       "repo": "awesome-transit",
-      "stars": 1866,
+      "stars": 1867,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6798,7 +6843,7 @@
         "transit-map"
       ]
     },
-    "original_repository_sha": "033f04838253848b011f8255cea4e5f971565e22",
+    "original_repository_sha": "9c7d5cc58b306dffafe39b4744901d14f6033a44",
     "enhanced_repository": "enhansome/enhansome-transit",
     "enhanced_repository_description": null,
     "title": "awesome-transit with stars"
